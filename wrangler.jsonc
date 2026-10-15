@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "nuraan-reviews-api",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "nuraan-reviews-db",
+			"database_id": "5f3c7139-96a4-46c6-b186-cc957df055d4"
+		}
+	]
+}
